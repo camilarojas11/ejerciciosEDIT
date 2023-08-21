@@ -1,3 +1,3 @@
 # Ejercicios EducacionIT
-En el siguiente repositorio de agregaran los ejercicios correspondientes 
+En el siguiente repositorio se agregaran los ejercicios correspondientes 
 al bootcamp de JAVA

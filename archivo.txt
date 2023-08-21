@@ -1,0 +1,4 @@
+Logs
+916e566 (HEAD -> ejercicio2, origin/ejercicio2) create archivo.txt
+2e9c4b8 (origin/main, main) change README.md
+e79f566 first commit
