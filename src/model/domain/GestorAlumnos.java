@@ -6,7 +6,6 @@ import java.util.List;
 public class GestorAlumnos {
 
     public Alumno[] alumnos;
-    public boolean flag;
 
     public GestorAlumnos() {
 
